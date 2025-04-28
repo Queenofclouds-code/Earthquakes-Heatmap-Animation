@@ -1,3 +1,3 @@
 # Earthquakes-Heatmap-Animation
 
-![Earthquake Heatmap Animation](earthquake_heatmap.gif)
+![Earthquake Heatmap Animation](Earthquakes_India_animation.gif)

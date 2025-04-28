@@ -1,6 +1,6 @@
 # Earthquakes-Heatmap-Animation
 
-![Earthquake Heatmap Animation](Earthquakes_India_animation.gif)
+![Earthquake Heatmap Animation](Earqthauakes.gif)
 
 This project visualizes earthquake data from 1990 to 2023 in India using QGIS. The data is presented in the form of a heatmap density overlaid on a CartoDB Dark Matter base map. An animated GIF showcases the occurrence of earthquakes over the years, with the title indicating the year at each point in the animation.
 
